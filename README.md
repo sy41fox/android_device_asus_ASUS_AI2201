@@ -17,3 +17,4 @@ allprojects {
 	dependencies {
 	        implementation 'com.github.topjohnwu.libsu:core:5.2.1'
 	}
+[![](https://jitpack.io/v/topjohnwu/libsu.svg)](https://jitpack.io/#topjohnwu/libsu)
