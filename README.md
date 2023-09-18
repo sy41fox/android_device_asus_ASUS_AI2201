@@ -8,3 +8,9 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 ```
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
