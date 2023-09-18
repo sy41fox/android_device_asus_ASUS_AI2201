@@ -14,3 +14,6 @@ allprojects {
 			maven { url 'https://jitpack.io' }
 		}
 	}
+	dependencies {
+	        implementation 'com.github.topjohnwu.libsu:core:5.2.1'
+	}
